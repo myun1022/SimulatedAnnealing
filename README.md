@@ -311,3 +311,5 @@ public double fit(double a, double b, double c) {
 
 더 우수한 값이 나올때의 a, b, c의 값이다. 그래프를 보면 a는 1에, b는 -4에 c는 4에 가까워지고 있다는 것을 알 수 있다.
 
+(main에 올린 코드는 리드미에 있는 코드 중 2번째(모델링)코드입니다.)
+
